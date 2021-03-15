@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **ponugoti/ponugoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contemplative coder and engineer. Inspired by hard problems.
+
+I'm currently learning about streaming systems 🌊
+
+I love talking about futurology, politics, electric vehicles, powerlifting, climate, cooking, psychology, and skiing.
