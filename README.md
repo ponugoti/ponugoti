@@ -19,4 +19,4 @@ Contemplative coder and engineer. Inspired by hard problems.
 
 I'm currently learning about streaming systems 🌊
 
-I love talking about futurology, politics, electric vehicles, powerlifting, climate, cooking, psychology, and skiing.
+I love talking about politics, electric vehicles, powerlifting, climate, cooking, psychology, and skiing.
