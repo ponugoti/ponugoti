@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 Contemplative coder and engineer. Inspired by hard problems.
 
-I'm currently learning about streaming systems 🌊
-
-I love talking about politics, electric vehicles, powerlifting, climate, cooking, psychology, and futurology.
+I love talking about politics, powerlifting, climate, EVs, basketball, cooking, psychology, and futurology.
