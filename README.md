@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contemplative coder and engineer. Inspired by hard problems.
+Inspired by hard engineering problems.
 
 I love talking about politics, powerlifting, climate, EVs, basketball, cooking, psychology, and futurology.
